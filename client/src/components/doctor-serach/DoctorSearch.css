@@ -1,0 +1,34 @@
+/* DoctorSearch.css */
+.doctor-search-container {
+    position: relative;
+  }
+  
+  .search-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-top: none;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 1;
+  }
+  
+  .search-results table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .search-results th,
+  .search-results td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .search-results th {
+    background-color: #f2f2f2;
+  }
+  

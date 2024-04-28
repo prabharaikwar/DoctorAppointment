@@ -1,0 +1,23 @@
+.book-appoientment-btn{
+    border: 1px solid gray;
+    font-weight: bold;
+    color: black;
+    background: white;   
+    padding: 20px;   
+}
+.service-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .service-img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .service-content {
+    padding: 20px;
+    background-color: #f8f9fa; /* Example background color */
+  }
+  

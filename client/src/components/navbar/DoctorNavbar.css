@@ -1,0 +1,23 @@
+.navbar-bg{
+    background-color: #33ccff;
+    color: black;
+}
+
+.navItem{
+    text-decoration: none;
+    font-weight: 500; 
+    color: rgb(34,102,127);
+    /* transition: background-color 0.3s, color 0.3s; */
+    /* padding: 10px; */
+}
+.navItem:hover{
+    text-decoration: none;    
+    /* background: white; */
+    /* color: blue; */
+}
+.btn-navitem{
+    color: rgb(34,102,127);
+}
+.btn-navitem:hover{
+    text-decoration: none;
+}

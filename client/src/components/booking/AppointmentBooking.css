@@ -1,0 +1,29 @@
+.appointment-book{
+    background:  #33ccff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.appointment-btn{
+    padding: 20px;
+    /* margin: 2%; */
+    /* font-size: large; */
+    font-weight: bold;
+    background: white;
+}
+
+.booking-round-circle{
+    margin: 3px;
+    text-align: center;
+    border-radius: 50%;
+    /* width: 33.3%; */
+    /* height:100%; */
+    background: white;
+    color: black;
+    padding: 20px;
+}
+/* .booking-round-circle {
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #f0f0f0; 
+  } */

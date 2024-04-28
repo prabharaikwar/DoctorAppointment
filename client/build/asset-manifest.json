@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed7066b8.css",
+    "main.js": "/static/js/main.896b648e.js",
+    "static/js/453.b06ee253.chunk.js": "/static/js/453.b06ee253.chunk.js",
+    "static/media/appointment.jpg": "/static/media/appointment.7196bfef312f09cc0f68.jpg",
+    "static/media/service-img.jpg": "/static/media/service-img.ad713486bc13a7ca9a35.jpg",
+    "index.html": "/index.html",
+    "main.ed7066b8.css.map": "/static/css/main.ed7066b8.css.map",
+    "main.896b648e.js.map": "/static/js/main.896b648e.js.map",
+    "453.b06ee253.chunk.js.map": "/static/js/453.b06ee253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7066b8.css",
+    "static/js/main.896b648e.js"
+  ]
+}

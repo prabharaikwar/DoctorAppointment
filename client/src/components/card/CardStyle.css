@@ -1,0 +1,21 @@
+.card-appointment{
+    width: 18rem;
+    background: #F1EBEB;
+    border-radius: 10px;
+  }
+
+  .card-feedback{
+    width: 18rem;
+    background: white;
+    border-radius:12px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(5px);
+  }
+
+  .profile-icon{
+    /* background-color: pink; */
+    padding: 3px;
+    border-radius: 60px;
+    margin: 5px;
+    text-align: center;
+  }
